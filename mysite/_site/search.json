@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nShort info about this site."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "My First Site with Quarto",
