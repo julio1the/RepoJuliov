@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "About\nShort info about this site."
+    "text": "Contact\nEmail: julio1the@gmail.com"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "My First Site with Quarto",
     "section": "",
     "text": "Hello World!\nThis is my main page with Quarto.\n\nHere you can write text in Markdown\nLists, images, tables, etc."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nShort info about this site."
   }
 ]
