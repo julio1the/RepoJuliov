@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Binarios y paquetes
+*.deb
+quarto-linux-amd64.deb
