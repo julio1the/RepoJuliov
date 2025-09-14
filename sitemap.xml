@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://julio1the.github.io/RepoJuliov/about.html</loc>
-    <lastmod>2025-09-14T15:23:06.120Z</lastmod>
-  </url>
-  <url>
-    <loc>https://julio1the.github.io/RepoJuliov/contac.html</loc>
-    <lastmod>2025-09-14T15:23:43.884Z</lastmod>
+    <loc>https://julio1the.github.io/RepoJuliov/contact.html</loc>
+    <lastmod>2025-09-14T15:25:26.261Z</lastmod>
   </url>
   <url>
     <loc>https://julio1the.github.io/RepoJuliov/index.html</loc>
     <lastmod>2025-09-14T15:10:06.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://julio1the.github.io/RepoJuliov/about.html</loc>
+    <lastmod>2025-09-14T15:23:06.120Z</lastmod>
   </url>
 </urlset>
