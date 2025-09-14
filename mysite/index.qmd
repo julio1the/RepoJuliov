@@ -1,11 +1,11 @@
 ---
-title: "Mi primer sitio con Quarto"
+title: "My First Site with Quarto"
 format: html
 ---
 
-# ¡Hola mundo!
+# Hello World!
 
-Esta es mi página principal con Quarto.
+This is my main page with Quarto.
 
-- Aquí puedes poner texto en Markdown
-- Listas, imágenes, tablas, etc.
+- Here you can write text in Markdown
+- Lists, images, tables, etc.

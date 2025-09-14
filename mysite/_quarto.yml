@@ -1,13 +1,24 @@
 project:
-  type: website
+  type: website       # project type
 
 website:
-  title: "Mi sitio con Quarto"
+  title: "My Quarto Site"   # title shown at the top
   navbar:
-    left:
+    left:             # links on the left side of the menu
       - href: index.qmd
-        text: Inicio
+        text: Home
+      - href: about.qmd           # new page
+        text: About
+      - href: contact.qmd         # new page
+        text: Contact
+    right:            # icons/links on the right side (optional)
+      - icon: github
+        href: https://github.com/julio1the/RepoJuliov
+  page-footer: |
+    © 2025 Julio Vargas – Built with [Quarto](https://quarto.org)
 
 format:
   html:
-    theme: cosmo
+    theme: cosmo         # visual theme (cosmo, litera, minty, etc.)
+    toc: true            # show table of contents on the right
+    number-sections: false  # disable numbered sections
