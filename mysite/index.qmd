@@ -1,0 +1,11 @@
+---
+title: "Mi primer sitio con Quarto"
+format: html
+---
+
+# ¡Hola mundo!
+
+Esta es mi página principal con Quarto.
+
+- Aquí puedes poner texto en Markdown
+- Listas, imágenes, tablas, etc.
